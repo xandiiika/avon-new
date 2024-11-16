@@ -1,0 +1,15 @@
+
+[
+    {
+        "name": "Parfüm 1",
+        "price": "4990 Ft",
+        "image": "product1.jpg",
+        "description": "Egyedi illat férfiaknak és nőknek."
+    },
+    {
+        "name": "Krém 2",
+        "price": "2990 Ft",
+        "image": "product2.jpg",
+        "description": "Hidratáló krém száraz bőrre."
+    }
+]
